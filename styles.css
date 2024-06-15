@@ -1,7 +1,36 @@
-h1{text-align:center;}
-body{background-color:teal;}
-#learned{text-align:center;} /*first h2*/
-#what{background-color:#9fcaca;}
-#lang{background-color:#9fcaca;}
-#want{background-color:#9fcaca;}
-/*is there a way to make div's seamless when using background colors?*/
+h1{
+    text-align:center; 
+    background-color:#9fcaca; 
+    width:60%; 
+    margin-left:auto; 
+    margin-right:auto;
+}
+#distress{
+    margin-left:auto; 
+    margin-right:auto; 
+    display:block;
+}
+body{
+    background-color:teal;
+}
+#learned{ /*first h2 ONLY, contained in #what*/
+    text-align:center;
+} 
+#what{
+    background-color:#9fcaca;
+}
+#lang{
+    background-color:#9fcaca;
+    width:60%;
+}
+#want{
+    background-color:#9fcaca;
+    width:60%
+}
+/*QUESTION: is there a way to make div's seamless when using background colors?*/
+
+/*NOTE: size percentages are relative to the size of the display*/
+/*NOTE: enter items by adding margin-left: and -right:auto; - if img, add display:block*/
+
+/*TO DO: want to make #lang and #want dropdowns,
+want to add an image or gif beside them. could also put a <p> there */
