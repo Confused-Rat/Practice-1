@@ -16,6 +16,8 @@
                 <li><button>making buttons</button> but i forgot how to make them do stuff</li>
             </ol>
         </section>
+        <hr>
+        <!--^^horizontal line^^-->
         <section>
             <h2>Coding Languages I want to Learn:</h2>
                 <ul>
@@ -25,8 +27,6 @@
                     <!--^^Emoji^^-->
                 </ul>
         </section>
-        <hr>
-                <!--^^horizontal line^^-->
         <section>
             <h2>Things I want to be able to do with code...</h2>
                 <h3>Soon:</h3>
