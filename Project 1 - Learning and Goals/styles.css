@@ -21,11 +21,11 @@ body{
 }
 #lang{
     background-color:#9fcaca;
-    width:600px;
+    width:60%;
 }
 #want{
     background-color:#9fcaca;
-    width:600px;
+    width:60%
 }
 /*QUESTION: is there a way to make div's seamless when using background colors?*/
 
