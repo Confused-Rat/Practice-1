@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta name="trying">
+    </head>
+    <body>
+        <h1>I have no idea what I'm doing</h1>
+        <img src="https://media.istockphoto.com/id/543347592/vector/why-god-why-emoticon.jpg?s=612x612&w=0&k=20&c=gukkiZ3mBsm4qWZaZu_KLbwFhWdteeME0cLoEbo4yMw=" alt="distressed emoticon with hands">
+        <section>
+            <h2>What I learned in boating school is...</h2>
+            <ol>
+                <li>headers, 1-6</li>
+                <li>paragraphs</li>
+                <li>lists, organized (like this one) and unorganized</li>
+                <li>embedding images with their URL, and adding alt text</li>
+                <li>adding <a href="https://youtu.be/dQw4w9WgXcQ">links</a> to things using anchors</li>
+                <li><button>making buttons</button> but i forgot how to make them do stuff</li>
+            </ol>
+        </section>
+        <section>
+            <h2>Coding Languages I want to Learn:</h2>
+                <ul>
+                    <li>HTML + CSS</li>
+                    <li>Java</li>
+                    <li>&#10024;Python&#10024;</li>
+                    <!--^^Emoji^^-->
+                </ul>
+        </section>
+        <hr>
+                <!--^^horizontal line^^-->
+        <section>
+            <h2>Things I want to be able to do with code...</h2>
+                <h3>Soon:</h3>
+                <ul>
+                    <li>code an art portfolio</li>
+                </ul>
+                <h3>In a year or more:</h3>
+                <ul>
+                    <li>know enough to run an AI locally</li>
+                    <li>code a game</li>
+                    <li>ethical hacking?</li>
+                </ul>
+        </section>
+    </body>  
+</html>
