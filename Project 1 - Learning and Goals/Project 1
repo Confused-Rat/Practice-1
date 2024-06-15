@@ -13,10 +13,10 @@
     <body>
         <main>
             <h1> I have no idea what I'm doing </h1>
-            <img id="distress" src="https://media.istockphoto.com/id/543347592/vector/why-god-why-emoticon.jpg?s=612x612&w=0&k=20&c=gukkiZ3mBsm4qWZaZu_KLbwFhWdteeME0cLoEbo4yMw=" alt="distressed emoticon with hands">
-            <div id="what">
+            <img class="distress" id="distress" src="https://media.istockphoto.com/id/543347592/vector/why-god-why-emoticon.jpg?s=612x612&w=0&k=20&c=gukkiZ3mBsm4qWZaZu_KLbwFhWdteeME0cLoEbo4yMw=" alt="distressed emoticon with hands">
+            <div class="what" id="what">
                 <section>
-                    <h2 id="learned">What I learned in boating school is...</h2>
+                    <h2 class="learned" id="learned">What I learned in boating school is...</h2>
                     <h3>HTML + CSS:</h3>
                     <!--TO DO: h3 into titles for dropdowns containing the lists (how)-->
                     <ol>
@@ -35,7 +35,7 @@
         </main>
         <hr>
         <!--^^horizontal line^^-->
-        <div id="lang">
+        <div class="lang" id="lang">
             <section>
                 <h2>Coding Languages I want to Learn:</h2>
                     <ul>
@@ -46,14 +46,14 @@
                     </ul>
             </section>
         </div>
-        <div id="want">
+        <div class="want" id="want">
             <section>
                 <h2>Things I want to be able to do with code...</h2>
                     <h3>Soon:</h3>
                     <ul>
                         <li>code an art portfolio</li>
                         <li>make a Neocities or Angelfire page</li>
-                        <li>make one of those crazy labyrinth sites</li>
+                        <li>make one of those crazy labyrinth projects</li>
                     </ul>
                     <h3>In a year or more:</h3>
                     <ul>

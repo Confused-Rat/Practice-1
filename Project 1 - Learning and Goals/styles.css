@@ -1,3 +1,4 @@
+/*class selectors, using a ., are more common than id selectors, using a #*/
 h1{
     text-align:center; 
     background-color:#9fcaca; 
@@ -5,32 +6,40 @@ h1{
     margin-left:auto; 
     margin-right:auto;
 }
-#distress{
-    margin-left:auto; 
-    margin-right:auto; 
-    display:block;
+h2{
+    text-align:center; /*stays in respective divs' parameters*/
 }
 body{
     background-color:teal;
 }
-#learned{ /*first h2 ONLY, contained in #what*/
-    text-align:center;
-} 
-#what{
-    background-color:#9fcaca;
+.distress{
+    margin-left:auto; 
+    margin-right:auto; 
+    display:block;
 }
-#lang{
+.what{
+    background-color:#9fcaca;
+    width:100%; /*change to fit-content if can do the trio*/
+    margin-left:auto;
+    margin-right:auto;
+    /*TO DO (if I can): add Java and Python in line with HTML + CSS
+        else, just trim it down to 600px like the others*/
+    /*TO DO: make HTML + CSS a dropdown*/
+}
+.lang{
     background-color:#9fcaca;
     width:600px;
 }
-#want{
+.want{
     background-color:#9fcaca;
     width:600px;
 }
 /*QUESTION: is there a way to make div's seamless when using background colors?*/
+/*TO DO + QUESTION: what is average dimensions (px) on mobile sites
+    how do I view this on mobile ... do that*/
 
 /*NOTE: size percentages are relative to the size of the display*/
-/*NOTE: enter items by adding margin-left: and -right:auto; - if img, add display:block*/
+/*NOTE: center items by adding margin-left: and -right:auto; - if img, add display:block*/
 
 /*TO DO: want to make #lang and #want dropdowns,
 want to add an image or gif beside them. could also put a <p> there */
