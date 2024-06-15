@@ -4,6 +4,8 @@
         <title>Trying My Best</title>
         <meta charset="utf-8">
         <!--FreeCodeCamp's recommended head info-->
+        <style>h1{text-align:center;}</style>
+        <!--^^CSS modifying appearance^^-->
     </head>
     <body>
         <main>
@@ -11,13 +13,16 @@
             <img src="https://media.istockphoto.com/id/543347592/vector/why-god-why-emoticon.jpg?s=612x612&w=0&k=20&c=gukkiZ3mBsm4qWZaZu_KLbwFhWdteeME0cLoEbo4yMw=" alt="distressed emoticon with hands">
             <section>
                 <h2>What I learned in boating school is...</h2>
+                <h3>HTML + CSS</h3>
+                <!--I want the lists under each h3 to be dropdowns-->
                 <ol>
                     <li>headers, 1-6</li>
                     <li>paragraphs</li>
-                    <li>lists, organized (like this one) and unorganized</li>
-                    <li>embedding images with their URL, and adding alt text</li>
+                    <li>lists, organized and unorganized</li>
+                    <li>adding images with their URL, and adding alt text</li>
                     <li>adding <a href="https://youtu.be/dQw4w9WgXcQ">links</a> to things using anchors</li>
                     <li><button>making buttons</button> but i forgot how to make them do stuff</li>
+                    <li><b>bold</b>, <i>italics</i>, and <u>underlining</u></li>
                 </ol>
             </section>
         </main>
@@ -43,7 +48,7 @@
                 <h3>In a year or more:</h3>
                 <ul>
                     <li>know enough to run an AI locally</li>
-                    <li>code a game</li>
+                    <li>code a game that I enjoy</li>
                     <li>ethical hacking?</li>
                 </ul>
         </section>
