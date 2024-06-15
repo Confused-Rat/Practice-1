@@ -1,2 +1,3 @@
 # Stuff
-These are not serious projects.
+
+I'm learning to code, and these are some of my practice projects.
