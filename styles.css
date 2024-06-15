@@ -1,3 +1,7 @@
 h1{text-align:center;}
-main{background-color:teal;}
-#learned{text-align:center;}
+body{background-color:teal;}
+#learned{text-align:center;} /*first h2*/
+#what{background-color:#9fcaca;}
+#lang{background-color:#9fcaca;}
+#want{background-color:#9fcaca;}
+/*is there a way to make div's seamless when using background colors?*/
